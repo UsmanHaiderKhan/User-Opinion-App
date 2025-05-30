@@ -1,0 +1,32 @@
+{
+  "opinions": [
+    {
+      "id": 1750431431516,
+      "votes": 2,
+      "userName": "UK$47",
+      "title": "Form Status Hooks",
+      "body": "I am going to test the form status hook is it going to work or not."
+    },
+    {
+      "id": 1750429698232,
+      "votes": 1,
+      "userName": "UKHANAK47",
+      "title": "Studying React",
+      "body": "Is learning React in 2025 is benificial as compared to the learning AI models to get job."
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 2
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
